@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Nemat Aly</h1>
 <h3 align="center">An Electronic and Industrial Automation Enthusiast....!!!!</h3>
 
-<img src="https://www.sherpadesk.com/hubfs/Sherpadesk_Product%20Page/IT-Managers_LP-Update/Machine_anim_v2.gif" alt="automation animation" width="600" align="right" height="400" ><br><br><br><br>
+<img src="https://www.sherpadesk.com/hubfs/Sherpadesk_Product%20Page/IT-Managers_LP-Update/Machine_anim_v2.gif" alt="automation animation" width="600" align="right" width="200px" ><br><br><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemat4327&label=Profile%20views&color=0e75b6&style=flat" alt="nemat4327" /> </p>
 
